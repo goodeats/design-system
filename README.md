@@ -4,6 +4,9 @@
 
 Creating a design system to import in other projects
 
+Tools I am using:
+- [Rollup](https://rollupjs.org) - for bundling
+
 Tools I want to implement
 - Radix
 - Tailwind
