@@ -1,4 +1,4 @@
-# (Design System)[https://github.com/goodeats/design-system]
+# [Design System](https://github.com/goodeats/design-system)
 
 ## About
 
