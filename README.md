@@ -8,9 +8,10 @@ Tools I am using:
 - [Rollup](https://rollupjs.org) - for bundling
 
 Tools I want to implement
-- Radix
-- Tailwind
-- Storybook
+- [Radix](https://www.radix-ui.com/)
+- [Tailwind](https://tailwindui.com/)
+- [Storybook](https://storybook.js.org/blog/framework-api/)
+- [Conform](https://conform.guide/integrations)
 
 Create Radix primitives and insert Tailwind CSS into them
 
