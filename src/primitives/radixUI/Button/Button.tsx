@@ -6,9 +6,9 @@ export interface ButtonProps {
 }
 
 const defaultStyle = {
-  backgroundColor: '#000',
+  backgroundColor: 'slategray',
+  border: '1px solid gold',
   color: '#fff',
-  border: 'none',
   padding: '10px 20px',
   borderRadius: '5px',
   cursor: 'pointer',
